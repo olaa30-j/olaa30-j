@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Who I Am: Ola Adel, a passionate Frontend Developer with full-stack experience.<br>- Tech Skills: Proficient in JavaScript, TypeScript, React, Angular, Node.js, and NestJS.<br>- What I Do: Build responsive apps, develop APIs, and integrate real-time features & payments.<br>- Projects: Freelancing platform 🛒, social media 🌐, and mother care apps 👩‍👧‍👦.<br>- Collaboration: Skilled in Agile, Git, and deploying with Vercel.<br>💡 Let’s Build Together: Explore my projects and collaborate!
+- Who I Am: Ola Adel, a passionate Frontend Developer with full-stack experience.<br> - Tech Skills: Proficient in JavaScript, TypeScript, React, Angular, Node.js, and NestJS.<br> - What I Do: Build responsive apps, develop APIs, and integrate real-time features & payments.<br> - Projects: Freelancing platform 🛒, social media 🌐, and mother care apps 👩‍👧‍👦.<br> - Collaboration: Skilled in Agile, Git, and deploying with Vercel.<br> 💡 Let’s Build Together: Explore my projects and collaborate!
 
 
 ## 🌐 Socials:
